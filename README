@@ -1,0 +1,4 @@
+Party Announce is a simple plugin that announces to everyone on the server who joined what party. This was more of a test, or learning plugin for me, but I'm putting it up because people may find it useful for keeping track of people on their server more efficiently.
+
+/partyannounce - Shows the Party Announce main menu.
+/partytoggle - Toggles the state of Party Announce (On/Off)

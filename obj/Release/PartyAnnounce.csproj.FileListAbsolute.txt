@@ -1,0 +1,6 @@
+C:\Documents and Settings\Compaq_Administrator\Desktop\Programming\PartyAnnounce\DeathCradle-Terraria-s-Dedicated-Server-Mod-7af496e\TDSMPlugin\TDSMPlugin\bin\Release\TDSM.exe
+C:\Documents and Settings\Compaq_Administrator\Desktop\Programming\PartyAnnounce\DeathCradle-Terraria-s-Dedicated-Server-Mod-7af496e\TDSMPlugin\TDSMPlugin\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Compaq_Administrator\Desktop\Programming\PartyAnnounce\DeathCradle-Terraria-s-Dedicated-Server-Mod-7af496e\TDSMPlugin\TDSMPlugin\bin\Release\PartyAnnounce.dll
+C:\Documents and Settings\Compaq_Administrator\Desktop\Programming\PartyAnnounce\DeathCradle-Terraria-s-Dedicated-Server-Mod-7af496e\TDSMPlugin\TDSMPlugin\bin\Release\PartyAnnounce.pdb
+C:\Documents and Settings\Compaq_Administrator\Desktop\Programming\PartyAnnounce\DeathCradle-Terraria-s-Dedicated-Server-Mod-7af496e\TDSMPlugin\TDSMPlugin\obj\Release\PartyAnnounce.dll
+C:\Documents and Settings\Compaq_Administrator\Desktop\Programming\PartyAnnounce\DeathCradle-Terraria-s-Dedicated-Server-Mod-7af496e\TDSMPlugin\TDSMPlugin\obj\Release\PartyAnnounce.pdb
